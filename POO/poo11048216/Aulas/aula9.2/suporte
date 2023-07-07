@@ -1,0 +1,43 @@
+Dia Juliano --> Data Gregoriana
+
+int jd, q, z, w, x, a, b, c, d, e, f, dia, mes, ano;
+    
+    jd = dj.getDiaJuliano();
+    
+    q = jd + 0.5;
+    z = q;
+    w = (z - 1867216.25)/36524.25;
+    x = w/4;
+    a = z+1+w-x;
+    b = a+1524;
+    c = (b-122.1)/365.25;
+    d = 365.25*c;
+    e = (b-d)/30.6001;
+    f = 30.6001*e;
+    dia = b-d-f+(q-z);
+    mes = e<14?e-1:e-13;
+    ano = mes<3?c-4715:c-4716;
+    
+    
+Data Gregoriana --> Dia Juliano
+
+int dia, mes, ano, a, b, c, d, e, dj;
+    
+    dia = ;
+    mes = ;
+    ano = ;
+    
+    if(mes < 3)
+    {
+        ano--;
+        mes+=12;
+    }
+    
+    a = ano/100;
+    b = a/4;
+    c = 2-a+b;
+    d = 365.25*(ano+4716);
+    e = 30.6001 * (mes+1);
+    dj = d+e+dia+0.5+c-1524.5;
+    
+    return ;

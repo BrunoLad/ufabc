@@ -1,0 +1,97 @@
+===== RELATORIO DE SEGURANCA DO ELEVADOR =====
+TARA .............: 100 kg.
+LOTACAO TOTAL ....: 10 passageiros
+CAPACIDADE TOTAL .: 800 kg.
+LOTACAO ATUAL ....: 0 passageiros
+PESO .............: 0 kg.
+PESO TOTAL .......: 100 kg.
+==============================================
+===== RELATORIO DE SEGURANCA DO ELEVADOR =====
+TARA .............: 100 kg.
+LOTACAO TOTAL ....: 10 passageiros
+CAPACIDADE TOTAL .: 800 kg.
+LOTACAO ATUAL ....: 1 passageiros
+PESO .............: 60 kg.
+PESO TOTAL .......: 160 kg.
+==============================================
+===== RELATORIO DE SEGURANCA DO ELEVADOR =====
+TARA .............: 100 kg.
+LOTACAO TOTAL ....: 10 passageiros
+CAPACIDADE TOTAL .: 800 kg.
+LOTACAO ATUAL ....: 2 passageiros
+PESO .............: 120 kg.
+PESO TOTAL .......: 220 kg.
+==============================================
+===== RELATORIO DE SEGURANCA DO ELEVADOR =====
+TARA .............: 100 kg.
+LOTACAO TOTAL ....: 10 passageiros
+CAPACIDADE TOTAL .: 800 kg.
+LOTACAO ATUAL ....: 3 passageiros
+PESO .............: 180 kg.
+PESO TOTAL .......: 280 kg.
+==============================================
+===== RELATORIO DE SEGURANCA DO ELEVADOR =====
+TARA .............: 100 kg.
+LOTACAO TOTAL ....: 10 passageiros
+CAPACIDADE TOTAL .: 800 kg.
+LOTACAO ATUAL ....: 4 passageiros
+PESO .............: 240 kg.
+PESO TOTAL .......: 340 kg.
+==============================================
+===== RELATORIO DE SEGURANCA DO ELEVADOR =====
+TARA .............: 100 kg.
+LOTACAO TOTAL ....: 10 passageiros
+CAPACIDADE TOTAL .: 800 kg.
+LOTACAO ATUAL ....: 5 passageiros
+PESO .............: 300 kg.
+PESO TOTAL .......: 400 kg.
+==============================================
+===== RELATORIO DE SEGURANCA DO ELEVADOR =====
+TARA .............: 100 kg.
+LOTACAO TOTAL ....: 10 passageiros
+CAPACIDADE TOTAL .: 800 kg.
+LOTACAO ATUAL ....: 6 passageiros
+PESO .............: 360 kg.
+PESO TOTAL .......: 460 kg.
+==============================================
+===== RELATORIO DE SEGURANCA DO ELEVADOR =====
+TARA .............: 100 kg.
+LOTACAO TOTAL ....: 10 passageiros
+CAPACIDADE TOTAL .: 800 kg.
+LOTACAO ATUAL ....: 7 passageiros
+PESO .............: 420 kg.
+PESO TOTAL .......: 520 kg.
+==============================================
+===== RELATORIO DE SEGURANCA DO ELEVADOR =====
+TARA .............: 100 kg.
+LOTACAO TOTAL ....: 10 passageiros
+CAPACIDADE TOTAL .: 800 kg.
+LOTACAO ATUAL ....: 8 passageiros
+PESO .............: 480 kg.
+PESO TOTAL .......: 580 kg.
+==============================================
+===== RELATORIO DE SEGURANCA DO ELEVADOR =====
+TARA .............: 100 kg.
+LOTACAO TOTAL ....: 10 passageiros
+CAPACIDADE TOTAL .: 800 kg.
+LOTACAO ATUAL ....: 9 passageiros
+PESO .............: 540 kg.
+PESO TOTAL .......: 640 kg.
+==============================================
+===== RELATORIO DE SEGURANCA DO ELEVADOR =====
+TARA .............: 100 kg.
+LOTACAO TOTAL ....: 10 passageiros
+CAPACIDADE TOTAL .: 800 kg.
+LOTACAO ATUAL ....: 10 passageiros
+PESO .............: 600 kg.
+PESO TOTAL .......: 700 kg.
+==============================================
+Lotacao do Elevador Excedida.
+===== RELATORIO DE SEGURANCA DO ELEVADOR =====
+TARA .............: 100 kg.
+LOTACAO TOTAL ....: 10 passageiros
+CAPACIDADE TOTAL .: 800 kg.
+LOTACAO ATUAL ....: 10 passageiros
+PESO .............: 600 kg.
+PESO TOTAL .......: 700 kg.
+==============================================

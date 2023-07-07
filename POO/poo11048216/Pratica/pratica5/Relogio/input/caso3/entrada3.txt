@@ -1,0 +1,10 @@
+22 58 57
+tic
+tic
+tic
+tic
+tac
+tac
+tac
+toc
+toc

@@ -1,0 +1,118 @@
+INSTALAÇÃO DO JAVA:
+
+1.Atualizar a Lista do apt:
+monael:~/workspace $ sudo apt-get update
+
+2.Instalar o JDK
+monael:~/workspace $ sudo apt-get install default-jdk
+
+=========================================================================
+COMPILAR UM PROGRAMA EM JAVA:
+
+javac <NOME_DO_ARQUIVO_FONTE>.java
+
+Exemplo:
+monael:~/workspace/aula1 $ javac Hello.java
+
+=========================================================================
+EXECUTAR UM PROGRAMA EM JAVA:
+
+java <NOME_DO_ARQUIVO_BYTECODE>
+
+Exemplo:
+monael:~/workspace/aula1 $ java Hello
+
+=========================================================================
+COMPILAR UM PROGRAMA EM C++:
+
+g++ <NOME_DO_ARQUIVO_FONTE>.cpp -o <NOME_DO_ARQUIVO_EXECUTAVEL>.exe
+
+Exemplo:
+monael:~/workspace/aula1 $ g++ Hello.cpp -o Hello.exe
+
+=========================================================================
+EXECUTAR UM PROGRAMA EM C++:
+
+./NOME_DO_ARQUIVO_EXECUTAVEL.exe
+
+Exemplo:
+monael:~/workspace/aula1 $ ./Hello.exe
+
+=========================================================================
+SABER EM QUE PONTO ESTOU DO SISTEMA DE ARQUIVOS
+
+pwd (PRESENT WORK DIRECTORY)
+
+Exemplo:
+monael:~/workspace/aula1 $ pwd
+/home/ubuntu/workspace/diurno/aula1
+
+=========================================================================
+VER O CONTEÚDO DE UMA PASTA
+
+ls (LIST)
+
+Exemplo:
+monael:~/workspace/aula1 $ ls
+Hello.class  Hello.java
+monael:~/workspace/aula1 $
+
+=========================================================================
+MUDAR DE PASTA
+
+cd (CHANGE DIRECTORY)
+
+Exemplo:
+monael:~/workspace $ cd aula1
+monael:~/workspace/aula1 $
+
+=========================================================================
+RETORNAR PARA UM DIRETORIO ANTERIOR
+
+cd .. (CHANGE DIRECTORY)
+
+Exemplo:
+monael:~/workspace/aula1 $ cd ..
+monael:~/workspace/ $
+
+=========================================================================
+LIMPAR A TELA
+
+clear
+
+=========================================================================
+CRIAR UMA NOVA PASTA
+
+mkdir NOME_DA_NOVA_PASTA (MAKE DIRECTORY)
+
+Exemplo:
+monael:~/workspace/ $ mkdir aula1
+monael:~/workspace/ $ cd aula1
+monael:~/workspace/aula1 $
+
+=========================================================================
+CRIAR UM NOVO ARQUIVO
+
+touch NOME_DO_NOVO_ARQUIVO
+
+Exemplo:
+monael:~/workspace/aula1 $ ls
+Hello.class  Hello.java
+monael:~/workspace/aula1 $ touch Hello.cpp
+monael:~/workspace/aula1 $ ls
+Hello.class  Hello.cpp Hello.java
+monael:~/workspace/aula1 $
+
+=========================================================================
+REMOVER DEFINITIVAMENTE UM ARQUIVO DO DIRETORIO
+
+rm NOME_DO_ARQUIVO (REMOVE)
+
+Exemplo:
+monael:~/workspace/aula1 $ ls
+Hello.class  Hello.cpp Hello.java
+monael:~/workspace/aula1 $ rm Hello.cpp
+monael:~/workspace/aula1 $ ls
+Hello.class  Hello.java
+monael:~/workspace/aula1 $
+

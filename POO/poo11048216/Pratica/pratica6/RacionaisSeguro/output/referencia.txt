@@ -1,0 +1,14 @@
+2 5
+4 1
+Denominador igual a zero.
+Denominador igual a zero.
+29 21
+-1 8
+Denominador igual a zero.
+32 9
+-10 3
+Denominador igual a zero.
+2 1
+Denominador igual a zero.
+Denominador igual a zero.
+5 3

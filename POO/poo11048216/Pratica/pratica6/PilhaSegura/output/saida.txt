@@ -1,0 +1,30 @@
+543
+54
+432
+432
+54
+543
+Runtime Error: Pilha Cheia.
+432
+54
+543
+5432
+5432
+543
+54
+432
+Runtime Error: Pilha Cheia.
+432
+54
+543
+432
+Runtime Error: Pilha Vazia.
+Runtime Error: Pilha Vazia.
+Runtime Error: Pilha Vazia.
+Runtime Error: Pilha Vazia.
+Runtime Error: Pilha Vazia.
+Runtime Error: Pilha Vazia.
+0
+7
+7
+0
